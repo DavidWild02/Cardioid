@@ -1,9 +1,8 @@
 # Cardioid
 
-Inspired by a video from Mathologer
-
-Youtube - Mathologer - Times Tables, Mandelbrot and the Heart of Mathematics
-https://www.youtube.com/watch?v=qhbuKbxJsk8
+Inspired by a video from Mathologer \n
+Youtube - Mathologer - Times Tables, Mandelbrot and the Heart of Mathematics \n
+https://www.youtube.com/watch?v=qhbuKbxJsk8 \n
 
 
 This is how the application looks like:
